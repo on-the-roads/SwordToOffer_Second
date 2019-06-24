@@ -1,5 +1,4 @@
 public class q6_minNumberInRotateArray_旋转数组的最小数字 {
-
     //思路1
     public int minNumberInRotateArray_1(int[] array) {
         for (int i = 1; i < array.length; i++) {

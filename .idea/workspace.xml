@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="" />
+    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q1_Find_二维数组中的查找.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q2_replaceSpace_替换空格.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q3_printListFromTailToHead__从尾到头打印链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q4_reConstructBinaryTree_重建二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q5_用两个栈实现队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q6_minNumberInRotateArray_旋转数组的最小数字.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -215,12 +225,12 @@
       <workItem from="1559913331610" duration="3489000" />
       <workItem from="1560776396905" duration="4669000" />
       <workItem from="1560941437936" duration="1473000" />
-      <workItem from="1561378684300" duration="547000" />
+      <workItem from="1561378684300" duration="890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16185000" />
+    <option name="totallyTimeSpent" value="16528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -239,7 +249,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.38693467" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.45058626" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.31270903" />
       <window_info anchor="bottom" id="Messages" order="13" />

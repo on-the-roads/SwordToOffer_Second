@@ -3,7 +3,7 @@
  * 输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
  */
 //思路：从矩阵右上角开始查找，等于当前值则直接返回，小于当前值则横坐标左移一位；否则纵坐标下移一位；循环此过程，当元素下标越界则说明没找到。
-public class q1_Find_二维数组中的查找 {
+public class q3_Find_二维数组中的查找 {
     public boolean Find(int target, int[][] array) {
         if (array == null || array.length == 0)
             return false;

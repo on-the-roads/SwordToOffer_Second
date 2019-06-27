@@ -1,7 +1,7 @@
 /**题目：
  * 请实现一个函数，将一个字符串中的每个空格替换成“%20”。例如，当字符串为We Are Happy.则经过替换之后的字符串为We%20Are%20Happy。
  */
-public class q2_replaceSpace_替换空格 {
+public class q4_replaceSpace_替换空格 {
     //思路1：开辟新的空间进行转换
     public String replaceSpace(StringBuffer str) {
         StringBuilder sb = new StringBuilder();
@@ -40,7 +40,7 @@ public class q2_replaceSpace_替换空格 {
 
 
     public static void main(String[] args) {
-        String ans = new q2_replaceSpace_替换空格().replaceSpace_2(new StringBuffer("We are happy."));
+        String ans = new q4_replaceSpace_替换空格().replaceSpace_2(new StringBuffer("We are happy."));
         System.out.println(ans);
     }
 }

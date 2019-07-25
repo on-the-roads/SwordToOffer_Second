@@ -1,4 +1,4 @@
-public class q6_minNumberInRotateArray_旋转数组的最小数字 {
+public class q8_minNumberInRotateArray_旋转数组的最小数字 {
     //思路1
     public int minNumberInRotateArray_1(int[] array) {
         for (int i = 1; i < array.length; i++) {
@@ -29,7 +29,7 @@ public class q6_minNumberInRotateArray_旋转数组的最小数字 {
     }
 
     public static void main(String[] args) {
-        int ans=new q6_minNumberInRotateArray_旋转数组的最小数字().minNumberInRotateArray_2(new int[]{1,2,2,2,2,2});
+        int ans=new q8_minNumberInRotateArray_旋转数组的最小数字().minNumberInRotateArray_2(new int[]{1,2,2,2,2,2});
         System.out.println(ans);
     }
 }

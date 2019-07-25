@@ -1,4 +1,4 @@
-public class q4_reConstructBinaryTree_重建二叉树 {
+public class q6_reConstructBinaryTree_重建二叉树 {
 
     private int[] pre;
     private int[] in;
@@ -36,6 +36,6 @@ public class q4_reConstructBinaryTree_重建二叉树 {
     public static void main(String[] args) {
         int[] pre={1,2,4,7,3,5,6,8};
         int[] in={4,7,2,1,5,3,8,6};
-        TreeNode root=new q4_reConstructBinaryTree_重建二叉树().reConstructBinaryTree(pre,in);
+        TreeNode root=new q6_reConstructBinaryTree_重建二叉树().reConstructBinaryTree(pre,in);
     }
 }

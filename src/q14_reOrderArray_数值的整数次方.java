@@ -4,6 +4,7 @@ public class q14_reOrderArray_数值的整数次方 {
         int[] res = new int[array.length];
         if (array == null || array.length == 0)
             return;
+
         int index = 0;
         for (int i = 0; i < array.length; i++) {
             if (array[i] % 2 == 1)

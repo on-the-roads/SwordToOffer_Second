@@ -1,9 +1,9 @@
 public class q14_reOrderArray_数值的整数次方 {
     //1. 允许扩展空间
     public void reOrderArray(int[] array) {
+        int[] res = new int[array.length];
         if (array == null || array.length == 0)
             return;
-        int[] res = new int[array.length];
         int index = 0;
         for (int i = 0; i < array.length; i++) {
             if (array[i] % 2 == 1)

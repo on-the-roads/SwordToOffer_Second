@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q24_VerifySquenceOfBST_二叉搜索树的后序遍历序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q25_FindPath_二叉树中和为某一值的路径.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,22 +25,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q24_VerifySquenceOfBST_二叉搜索树的后序遍历序列.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+            <state relative-caret-position="69">
+              <caret line="3" column="48" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/q18_HasSubtree_树的子结构.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/q25_FindPath_二叉树中和为某一值的路径.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="241">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="e#178#198#0" expanded="true" />
+                <element signature="e#565#574#0" expanded="true" />
+                <element signature="class#1248:1432" />
               </folding>
             </state>
           </provider>
@@ -159,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/q22_IsPopOrder_栈的压入弹出序列.java" />
         <option value="$PROJECT_DIR$/src/q23_PrintFromTopToBottom_从上往下打印二叉树.java" />
         <option value="$PROJECT_DIR$/src/q24_VerifySquenceOfBST_二叉搜索树的后序遍历序列.java" />
+        <option value="$PROJECT_DIR$/src/q25_FindPath_二叉树中和为某一值的路径.java" />
       </list>
     </option>
   </component>
@@ -294,18 +298,18 @@
       <workItem from="1564106032620" duration="93000" />
       <workItem from="1564147648611" duration="2144000" />
       <workItem from="1564229424306" duration="2575000" />
-      <workItem from="1564406498405" duration="1406000" />
+      <workItem from="1564406498405" duration="2603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42587000" />
+    <option name="totallyTimeSpent" value="43784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14781491" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14781491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -319,7 +323,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22222222" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.40329218" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.36683416" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
@@ -593,8 +597,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q24_VerifySquenceOfBST_二叉搜索树的后序遍历序列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        <state relative-caret-position="69">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q25_FindPath_二叉树中和为某一值的路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#178#198#0" expanded="true" />
+            <element signature="e#565#574#0" expanded="true" />
+            <element signature="class#1248:1432" />
+          </folding>
         </state>
       </provider>
     </entry>

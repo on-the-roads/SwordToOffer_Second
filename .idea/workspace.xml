@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q23_PrintFromTopToBottom_从上往下打印二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q24_VerifySquenceOfBST_二叉搜索树的后序遍历序列.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,28 +14,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/q22_IsPopOrder_栈的压入弹出序列.java">
+        <entry file="file://$PROJECT_DIR$/src/q23_PrintFromTopToBottom_从上往下打印二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="322">
+              <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#161#170#0" expanded="true" />
+                <element signature="e#834#843#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/q23_PrintFromTopToBottom_从上往下打印二叉树.java">
+        <entry file="file://$PROJECT_DIR$/src/q24_VerifySquenceOfBST_二叉搜索树的后序遍历序列.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#764#0" expanded="true" />
-                <element signature="e#412#422#0" expanded="true" />
-                <element signature="e#834#843#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -43,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q18_HasSubtree_树的子结构.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="115">
               <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -64,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q20_printMatrix_顺时针打印矩阵.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="92">
               <caret line="6" column="36" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="36" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -76,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="161">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
@@ -164,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/q14_reOrderArray_数值的整数次方.java" />
         <option value="$PROJECT_DIR$/src/q22_IsPopOrder_栈的压入弹出序列.java" />
         <option value="$PROJECT_DIR$/src/q23_PrintFromTopToBottom_从上往下打印二叉树.java" />
+        <option value="$PROJECT_DIR$/src/q24_VerifySquenceOfBST_二叉搜索树的后序遍历序列.java" />
       </list>
     </option>
   </component>
@@ -182,7 +177,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,6 +193,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,18 +293,19 @@
       <workItem from="1564055167980" duration="3134000" />
       <workItem from="1564106032620" duration="93000" />
       <workItem from="1564147648611" duration="2144000" />
-      <workItem from="1564229424306" duration="1362000" />
+      <workItem from="1564229424306" duration="2575000" />
+      <workItem from="1564406498405" duration="1406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39968000" />
+    <option name="totallyTimeSpent" value="42587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23136246" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14781491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -323,7 +319,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2798354" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.36683416" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
@@ -509,9 +505,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/q22_IsPopOrder_栈的压入弹出序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/q18_HasSubtree_树的子结构.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="115">
           <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -528,7 +534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q20_printMatrix_顺时针打印矩阵.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="92">
           <caret line="6" column="36" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="36" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -538,7 +544,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="161">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#126#127#0" expanded="true" />
@@ -575,26 +581,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/q22_IsPopOrder_栈的压入弹出序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#161#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/q23_PrintFromTopToBottom_从上往下打印二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
           <folding>
-            <element signature="e#0#764#0" expanded="true" />
-            <element signature="e#412#422#0" expanded="true" />
             <element signature="e#834#843#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q24_VerifySquenceOfBST_二叉搜索树的后序遍历序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="" />
+    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/q28_MoreThanHalfNum_Solution_数组中次数超过一半的数字.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,15 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/q26_Clone_复制链表的复制.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q27_Convert_二叉搜索树与双向链表.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
@@ -29,11 +22,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q28_Permutation_字符串的排列.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            <state relative-caret-position="138">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="35" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#181#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/q28_MoreThanHalfNum_Solution_数组中次数超过一半的数字.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -159,6 +165,8 @@
         <option value="$PROJECT_DIR$/src/RandomListNode.java" />
         <option value="$PROJECT_DIR$/src/q26_Clone_复制链表的复制.java" />
         <option value="$PROJECT_DIR$/src/q27_Convert_二叉搜索树与双向链表.java" />
+        <option value="$PROJECT_DIR$/src/q28_Permutation_字符串的排列.java" />
+        <option value="$PROJECT_DIR$/src/q28_MoreThanHalfNum_Solution_数组中次数超过一半的数字.java" />
       </list>
     </option>
   </component>
@@ -296,12 +304,12 @@
       <workItem from="1564229424306" duration="2575000" />
       <workItem from="1564406498405" duration="2630000" />
       <workItem from="1564491247679" duration="2833000" />
-      <workItem from="1564576217857" duration="637000" />
+      <workItem from="1564576217857" duration="2077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47281000" />
+    <option name="totallyTimeSpent" value="48721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
@@ -321,7 +329,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.12071331" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24005488" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.36683416" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
@@ -634,8 +642,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q28_Permutation_字符串的排列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state relative-caret-position="138">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#181#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q28_MoreThanHalfNum_Solution_数组中次数超过一半的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
         </state>
       </provider>
     </entry>

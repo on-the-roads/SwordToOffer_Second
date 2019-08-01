@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q30_GetLeastNumbers_Solution_最小的k个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q31_FindGreatestSumOfSubArray_连续子数组的最大和.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,18 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/q28_Permutation_字符串的排列.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="35" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q28_MoreThanHalfNum_Solution_数组中次数超过一半的数字.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
@@ -34,15 +22,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q30_GetLeastNumbers_Solution_最小的k个数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="138">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="48" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#187#196#0" expanded="true" />
                 <element signature="e#558#559#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/q31_FindGreatestSumOfSubArray_连续子数组的最大和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,12 +172,13 @@
         <option value="$PROJECT_DIR$/src/q28_Permutation_字符串的排列.java" />
         <option value="$PROJECT_DIR$/src/q28_MoreThanHalfNum_Solution_数组中次数超过一半的数字.java" />
         <option value="$PROJECT_DIR$/src/q30_GetLeastNumbers_Solution_最小的k个数.java" />
+        <option value="$PROJECT_DIR$/src/q31_FindGreatestSumOfSubArray_连续子数组的最大和.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1921" />
-    <option name="width" value="1045" />
+    <option name="x" value="1657" />
+    <option name="width" value="1309" />
     <option name="height" value="870" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -310,18 +311,18 @@
       <workItem from="1564491247679" duration="2833000" />
       <workItem from="1564576217857" duration="2746000" />
       <workItem from="1564630442496" duration="2444000" />
-      <workItem from="1564648528032" duration="192000" />
+      <workItem from="1564648528032" duration="1845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52026000" />
+    <option name="totallyTimeSpent" value="53679000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1921" y="0" width="1045" height="870" extended-state="0" />
+    <frame x="1657" y="0" width="1309" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17969543" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14171337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -665,12 +666,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q30_GetLeastNumbers_Solution_最小的k个数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="138">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="48" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#187#196#0" expanded="true" />
             <element signature="e#558#559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q31_FindGreatestSumOfSubArray_连续子数组的最大和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>

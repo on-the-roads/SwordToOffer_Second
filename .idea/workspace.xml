@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q33_PrintMinNumber_把数组排成最小的数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q44_GetUglyNumber_Solution_丑数.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,14 +22,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q33_PrintMinNumber_把数组排成最小的数.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/q44_GetUglyNumber_Solution_丑数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -161,6 +170,8 @@
         <option value="$PROJECT_DIR$/src/q31_FindGreatestSumOfSubArray_连续子数组的最大和.java" />
         <option value="$PROJECT_DIR$/src/q32_NumberOf1Between1AndN_Solution_从1到n整数中1出现的次数.java" />
         <option value="$PROJECT_DIR$/src/q33_PrintMinNumber_把数组排成最小的数.java" />
+        <option value="$PROJECT_DIR$/src/q44_丑数_GetUglyNumber_Solution.java" />
+        <option value="$PROJECT_DIR$/src/q44_GetUglyNumber_Solution_丑数.java" />
       </list>
     </option>
   </component>
@@ -304,19 +315,19 @@
       <workItem from="1564667602301" duration="694000" />
       <workItem from="1564754148571" duration="1915000" />
       <workItem from="1564813476373" duration="43000" />
-      <workItem from="1565012034293" duration="324000" />
+      <workItem from="1565012034293" duration="1397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56971000" />
+    <option name="totallyTimeSpent" value="58044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.28961748" visible="true" weight="0.24485861" />
-      <window_info id="Structure" order="1" sideWeight="0.7103825" side_tool="true" visible="true" weight="0.24485861" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.88188976" visible="true" weight="0.24485861" />
+      <window_info id="Structure" order="1" sideWeight="0.11811024" side_tool="true" visible="true" weight="0.24485861" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -329,7 +340,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4979424" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.12894376" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.36683416" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
@@ -694,10 +705,17 @@
     <entry file="file://$PROJECT_DIR$/src/q33_PrintMinNumber_把数组排成最小的数.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q44_GetUglyNumber_Solution_丑数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
         </state>
       </provider>
     </entry>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q35_FirstNotRepeatingChar_数组中只出现一次的字符.java" afterDir="false" />
-    </list>
+    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/q35_FirstNotRepeatingChar_数组中只出现一次的字符.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state relative-caret-position="115">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -318,19 +316,18 @@
       <workItem from="1564813476373" duration="43000" />
       <workItem from="1565012034293" duration="1749000" />
       <workItem from="1565072851220" duration="1801000" />
-      <workItem from="1565078313578" duration="873000" />
+      <workItem from="1565078313578" duration="2251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61070000" />
+    <option name="totallyTimeSpent" value="62448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7980769" visible="true" weight="0.25128534" />
-      <window_info id="Structure" order="1" sideWeight="0.20192307" side_tool="true" visible="true" weight="0.25128534" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7978142" visible="true" weight="0.25128534" />
+      <window_info id="Structure" order="1" sideWeight="0.2021858" side_tool="true" visible="true" weight="0.25128534" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -343,9 +340,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24691358" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24691358" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="调试" order="12" visible="true" weight="0.0013717421" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.0013717421" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -730,8 +727,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q35_FirstNotRepeatingChar_数组中只出现一次的字符.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="115">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="50" />
         </state>
       </provider>
     </entry>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q37_FindFirstCommonNode_两个链表的第一个公共结点.java" afterDir="false" />
-    </list>
+    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/q37_FindFirstCommonNode_两个链表的第一个公共结点.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="-69">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="e#356#366#0" expanded="true" />
                 <element signature="e#543#553#0" expanded="true" />
@@ -322,18 +320,18 @@
       <workItem from="1565012034293" duration="1749000" />
       <workItem from="1565072851220" duration="1801000" />
       <workItem from="1565078313578" duration="3589000" />
-      <workItem from="1565266403101" duration="1227000" />
+      <workItem from="1565266403101" duration="1903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65013000" />
+    <option name="totallyTimeSpent" value="65689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79371315" visible="true" weight="0.14910026" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79371315" visible="true" weight="0.14910026" />
       <window_info id="Structure" order="1" sideWeight="0.20628683" side_tool="true" visible="true" weight="0.14910026" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -347,7 +345,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30178326" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30178326" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.0013717421" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
@@ -748,8 +746,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q37_FindFirstCommonNode_两个链表的第一个公共结点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="-69">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
             <element signature="e#356#366#0" expanded="true" />
             <element signature="e#543#553#0" expanded="true" />

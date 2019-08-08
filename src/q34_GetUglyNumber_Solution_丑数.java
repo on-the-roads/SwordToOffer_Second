@@ -1,4 +1,4 @@
-public class q44_GetUglyNumber_Solution_丑数 {
+public class q34_GetUglyNumber_Solution_丑数 {
     /**
      * 首先想到的思路，后面一个丑数一定是由前面已有的丑数乘以 2、3、5得来的
      * @param index

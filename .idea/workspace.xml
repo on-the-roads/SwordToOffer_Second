@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="" />
+    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/q38_GetNumberOfK_数字在排序数组中出现的次数.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +14,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/q35_FirstNotRepeatingChar_数组中只出现一次的字符.java">
+        <entry file="file://$PROJECT_DIR$/src/q34_GetUglyNumber_Solution_丑数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state>
+              <caret column="42" selection-start-column="13" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/q38_GetNumberOfK_数字在排序数组中出现的次数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-605">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -29,27 +40,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q37_FindFirstCommonNode_两个链表的第一个公共结点.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
+            <state relative-caret-position="345">
               <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="e#356#366#0" expanded="true" />
                 <element signature="e#543#553#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RandomListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -174,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/q35_FirstNotRepeatingChar_数组中只出现一次的字符.java" />
         <option value="$PROJECT_DIR$/src/q36_InversePairs_数组中的逆序对.java" />
         <option value="$PROJECT_DIR$/src/q37_FindFirstCommonNode_两个链表的第一个公共结点.java" />
+        <option value="$PROJECT_DIR$/src/q38_GetNumberOfK_数字在排序数组中出现的次数.java" />
       </list>
     </option>
   </component>
@@ -235,14 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.q35_FirstNotRepeatingChar_数组中只出现一次的字符">
-    <configuration name="q11_Power_数值的整数次方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q11_Power_数值的整数次方" />
-      <module name="剑指offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.q38_GetNumberOfK_数字在排序数组中出现的次数">
     <configuration name="q12_Print1ToMaxOfNDigits_打印1到最大的n位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="q12_Print1ToMaxOfNDigits_打印1到最大的n位数" />
       <module name="剑指offer" />
@@ -271,13 +263,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q38_GetNumberOfK_数字在排序数组中出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q38_GetNumberOfK_数字在排序数组中出现的次数" />
+      <module name="剑指offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q38_GetNumberOfK_数字在排序数组中出现的次数" />
         <item itemvalue="Application.q35_FirstNotRepeatingChar_数组中只出现一次的字符" />
         <item itemvalue="Application.q17_Merge_合并两个排序的链表" />
         <item itemvalue="Application.q16_ReverseList_反转链表" />
         <item itemvalue="Application.q12_Print1ToMaxOfNDigits_打印1到最大的n位数" />
-        <item itemvalue="Application.q11_Power_数值的整数次方" />
       </list>
     </recent_temporary>
   </component>
@@ -320,19 +319,19 @@
       <workItem from="1565012034293" duration="1749000" />
       <workItem from="1565072851220" duration="1801000" />
       <workItem from="1565078313578" duration="3589000" />
-      <workItem from="1565266403101" duration="1903000" />
+      <workItem from="1565266403101" duration="3783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65689000" />
+    <option name="totallyTimeSpent" value="67569000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="1358" y="-8" width="1616" height="886" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79371315" visible="true" weight="0.14910026" />
-      <window_info id="Structure" order="1" sideWeight="0.20628683" side_tool="true" visible="true" weight="0.14910026" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79324055" visible="true" weight="0.14910026" />
+      <window_info id="Structure" order="1" sideWeight="0.20675944" side_tool="true" visible="true" weight="0.14910026" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,9 +344,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30178326" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.30178326" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="调试" order="12" weight="0.0013717421" />
+      <window_info active="true" anchor="bottom" id="调试" order="12" visible="true" weight="0.3100137" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -410,6 +409,12 @@
           <line>12</line>
           <properties />
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/q38_GetNumberOfK_数字在排序数组中出现的次数.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -663,13 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/q44_GetUglyNumber_Solution_丑数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/q35_FirstNotRepeatingChar_数组中只出现一次的字符.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -746,12 +744,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q37_FindFirstCommonNode_两个链表的第一个公共结点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
+        <state relative-caret-position="345">
           <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
             <element signature="e#356#366#0" expanded="true" />
             <element signature="e#543#553#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q34_GetUglyNumber_Solution_丑数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q38_GetNumberOfK_数字在排序数组中出现的次数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-605">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>

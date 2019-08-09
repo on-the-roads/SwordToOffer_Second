@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q40_FindNumsAppearOnce_数组中只出现一次的数字.java" afterDir="false" />
-    </list>
+    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/q40_FindNumsAppearOnce_数组中只出现一次的数字.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+            <state relative-caret-position="46">
+              <caret line="2" column="47" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -314,12 +312,12 @@
       <workItem from="1565072851220" duration="1801000" />
       <workItem from="1565078313578" duration="3589000" />
       <workItem from="1565266403101" duration="5679000" />
-      <workItem from="1565344791664" duration="599000" />
+      <workItem from="1565344791664" duration="1284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70064000" />
+    <option name="totallyTimeSpent" value="70749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
@@ -753,8 +751,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q40_FindNumsAppearOnce_数组中只出现一次的数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        <state relative-caret-position="46">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="47" />
         </state>
       </provider>
     </entry>

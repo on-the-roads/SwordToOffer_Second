@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="" />
+    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/q41_FindContinuousSequence_和为S的连续正数序列.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,28 +14,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/q34_GetUglyNumber_Solution_丑数.java">
+        <entry file="file://$PROJECT_DIR$/src/q40_FindNumsAppearOnce_数组中只出现一次的数字.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="42" selection-start-column="13" selection-end-column="42" />
+            <state relative-caret-position="414">
+              <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/q38_GetNumberOfK_数字在排序数组中出现的次数.java">
+        <entry file="file://$PROJECT_DIR$/src/q41_FindNumbersWithSum_和为S的两个数字.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="43" selection-start-column="13" selection-end-column="43" />
+            <state relative-caret-position="115">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="44" />
+              <folding>
+                <element signature="e#208#217#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/q40_FindNumsAppearOnce_数组中只出现一次的数字.java">
+        <entry file="file://$PROJECT_DIR$/src/q41_FindContinuousSequence_和为S的连续正数序列.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="47" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="47" />
+            <state>
+              <caret column="50" selection-start-column="50" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -165,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/q37_FindFirstCommonNode_两个链表的第一个公共结点.java" />
         <option value="$PROJECT_DIR$/src/q38_GetNumberOfK_数字在排序数组中出现的次数.java" />
         <option value="$PROJECT_DIR$/src/q40_FindNumsAppearOnce_数组中只出现一次的数字.java" />
+        <option value="$PROJECT_DIR$/src/q41_FindNumbersWithSum_和为S的两个数字.java" />
       </list>
     </option>
   </component>
@@ -312,17 +318,18 @@
       <workItem from="1565072851220" duration="1801000" />
       <workItem from="1565078313578" duration="3589000" />
       <workItem from="1565266403101" duration="5679000" />
-      <workItem from="1565344791664" duration="1284000" />
+      <workItem from="1565344791664" duration="1990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70749000" />
+    <option name="totallyTimeSpent" value="71455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7917485" visible="true" weight="0.15102828" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7917485" visible="true" weight="0.15102828" />
       <window_info id="Structure" order="1" sideWeight="0.20825148" side_tool="true" visible="true" weight="0.15102828" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -336,7 +343,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30178326" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30178326" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.48696846" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
@@ -751,8 +758,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q40_FindNumsAppearOnce_数组中只出现一次的数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="47" />
+        <state relative-caret-position="414">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q41_FindNumbersWithSum_和为S的两个数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="e#208#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q41_FindContinuousSequence_和为S的连续正数序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
         </state>
       </provider>
     </entry>

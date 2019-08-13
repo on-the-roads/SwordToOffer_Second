@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q45_LastRemaining_Solution_圆圈中最后剩下的数.java" afterDir="false" />
-    </list>
+    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +32,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/q45_LastRemaining_Solution_圆圈中最后剩下的数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            <state relative-caret-position="345">
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
-                <element signature="e#1201#1202#0" expanded="true" />
-                <element signature="e#1245#1246#0" expanded="true" />
+                <element signature="e#1154#1155#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -178,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1358" />
     <option name="y" value="-8" />
     <option name="width" value="1616" />
@@ -323,19 +320,19 @@
       <workItem from="1565078313578" duration="3589000" />
       <workItem from="1565266403101" duration="5679000" />
       <workItem from="1565344791664" duration="3300000" />
-      <workItem from="1565598707018" duration="1974000" />
+      <workItem from="1565598707018" duration="2328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74739000" />
+    <option name="totallyTimeSpent" value="75093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78936607" visible="true" weight="0.15295629" />
-      <window_info id="Structure" order="1" sideWeight="0.21063395" side_tool="true" visible="true" weight="0.15295629" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7897839" visible="true" weight="0.15295629" />
+      <window_info id="Structure" order="1" sideWeight="0.2102161" side_tool="true" visible="true" weight="0.15295629" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -348,9 +345,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.30178326" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30178326" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="调试" order="12" visible="true" weight="0.32921812" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.32921812" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -416,15 +413,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/q45_LastRemaining_Solution_圆圈中最后剩下的数.java</url>
-          <line>61</line>
+          <line>57</line>
           <properties />
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/q45_LastRemaining_Solution_圆圈中最后剩下的数.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -803,11 +794,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q45_LastRemaining_Solution_圆圈中最后剩下的数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        <state relative-caret-position="345">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
-            <element signature="e#1201#1202#0" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#1154#1155#0" expanded="true" />
           </folding>
         </state>
       </provider>

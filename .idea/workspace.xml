@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="" />
+    <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/q51_duplicate_数值中重复的数字.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,19 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/q45_LastRemaining_Solution_圆圈中最后剩下的数.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding>
-                <element signature="e#1116#1117#0" expanded="true" />
-                <element signature="e#1154#1155#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q46_Sum_Solution_求1到n的和.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,11 +31,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q49_StrToInt_把字符串转换成整数.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
+              <caret column="35" selection-start-column="13" selection-end-column="35" />
+              <folding>
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/q51_duplicate_数值中重复的数字.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -63,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="207">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
@@ -124,9 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Find.java" />
-        <option value="$PROJECT_DIR$/src/Find_二维数组中的查找.java" />
-        <option value="$PROJECT_DIR$/src/replaceSpace_替换空格.java" />
         <option value="$PROJECT_DIR$/src/q1_Find_二维数组中的查找.java" />
         <option value="$PROJECT_DIR$/src/ListNode.java" />
         <option value="$PROJECT_DIR$/src/q2_replaceSpace_替换空格.java" />
@@ -175,6 +174,9 @@
         <option value="$PROJECT_DIR$/src/q45_LastRemaining_Solution_圆圈中最后剩下的数.java" />
         <option value="$PROJECT_DIR$/src/q46_Sum_Solution_求1到n的和.java" />
         <option value="$PROJECT_DIR$/src/q47_Add_不用加减乘除计算两个数的和.java" />
+        <option value="$PROJECT_DIR$/src/q49_StrToInt_把字符串转换成整数.java" />
+        <option value="$PROJECT_DIR$/src/q51.java" />
+        <option value="$PROJECT_DIR$/src/q51_duplicate_数值中重复的数字.java" />
       </list>
     </option>
   </component>
@@ -324,19 +326,20 @@
       <workItem from="1565266403101" duration="5679000" />
       <workItem from="1565344791664" duration="3300000" />
       <workItem from="1565598707018" duration="2328000" />
-      <workItem from="1565688333411" duration="2097000" />
+      <workItem from="1565688333411" duration="2741000" />
+      <workItem from="1565768969230" duration="488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77190000" />
+    <option name="totallyTimeSpent" value="78322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.78781927" visible="true" weight="0.15488432" />
-      <window_info id="Structure" order="1" sideWeight="0.21218075" side_tool="true" visible="true" weight="0.15488432" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.78585464" visible="true" weight="0.15681234" />
+      <window_info id="Structure" order="1" sideWeight="0.21414538" side_tool="true" visible="true" weight="0.15681234" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -750,6 +753,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/q45_LastRemaining_Solution_圆圈中最后剩下的数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1154#1155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q46_Sum_Solution_求1到n的和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q47_Add_不用加减乘除计算两个数的和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/q37_FindFirstCommonNode_两个链表的第一个公共结点.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -759,7 +787,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="207">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#126#127#0" expanded="true" />
@@ -796,35 +824,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/q45_LastRemaining_Solution_圆圈中最后剩下的数.java">
+    <entry file="file://$PROJECT_DIR$/src/q49_StrToInt_把字符串转换成整数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state>
+          <caret column="35" selection-start-column="13" selection-end-column="35" />
           <folding>
-            <element signature="e#1116#1117#0" expanded="true" />
-            <element signature="e#1154#1155#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/q46_Sum_Solution_求1到n的和.java">
+    <entry file="file://$PROJECT_DIR$/src/q51_duplicate_数值中重复的数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/q47_Add_不用加减乘除计算两个数的和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/q49_StrToInt_把字符串转换成整数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        <state relative-caret-position="161">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
         </state>
       </provider>
     </entry>

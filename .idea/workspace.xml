@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q54_isNumeric_表示数值的字符串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q53_match_正则表达式匹配.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q53_match_正则表达式匹配.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q56_链表中环的入口结点_EntryNodeOfLoop.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/q51_duplicate_数值中重复的数字.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q52_multiply_构建乘积数组.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q54_isNumeric_表示数值的字符串.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-184">
-              <caret line="88" column="33" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+            <state relative-caret-position="299">
+              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/q56_链表中环的入口结点_EntryNodeOfLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="64" column="1" lean-forward="true" selection-end-line="65" />
             </state>
           </provider>
         </entry>
@@ -126,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/q3_printListFromTailToHead__从尾到头打印链表.java" />
         <option value="$PROJECT_DIR$/src/q4_reConstructBinaryTree_重建二叉树.java" />
         <option value="$PROJECT_DIR$/src/q5_用两个栈实现队列.java" />
         <option value="$PROJECT_DIR$/src/q6_minNumberInRotateArray_旋转数组的最小数字.java" />
@@ -177,12 +175,13 @@
         <option value="$PROJECT_DIR$/src/q52_multiply_构建乘积数组.java" />
         <option value="$PROJECT_DIR$/src/q53_match_正则表达式匹配.java" />
         <option value="$PROJECT_DIR$/src/q54_isNumeric_表示数值的字符串.java" />
+        <option value="$PROJECT_DIR$/src/q56_链表中环的入口结点_EntryNodeOfLoop.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1092" />
-    <option name="y" value="375" />
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
     <option name="width" value="1616" />
     <option name="height" value="886" />
   </component>
@@ -238,14 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.q54_isNumeric_表示数值的字符串">
-    <configuration name="q35_FirstNotRepeatingChar_数组中只出现一次的字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q35_FirstNotRepeatingChar_数组中只出现一次的字符" />
-      <module name="剑指offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.q56_链表中环的入口结点_EntryNodeOfLoop">
     <configuration name="q38_GetNumberOfK_数字在排序数组中出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="q38_GetNumberOfK_数字在排序数组中出现的次数" />
       <module name="剑指offer" />
@@ -274,13 +266,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q56_链表中环的入口结点_EntryNodeOfLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q56_链表中环的入口结点_EntryNodeOfLoop" />
+      <module name="剑指offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q56_链表中环的入口结点_EntryNodeOfLoop" />
         <item itemvalue="Application.q54_isNumeric_表示数值的字符串" />
         <item itemvalue="Application.q53_match_正则表达式匹配" />
         <item itemvalue="Application.q45_LastRemaining_Solution_圆圈中最后剩下的数" />
         <item itemvalue="Application.q38_GetNumberOfK_数字在排序数组中出现的次数" />
-        <item itemvalue="Application.q35_FirstNotRepeatingChar_数组中只出现一次的字符" />
       </list>
     </recent_temporary>
   </component>
@@ -328,19 +327,19 @@
       <workItem from="1565598707018" duration="2328000" />
       <workItem from="1565688333411" duration="2741000" />
       <workItem from="1565768969230" duration="8190000" />
-      <workItem from="1565853173331" duration="1489000" />
+      <workItem from="1565853173331" duration="5463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87513000" />
+    <option name="totallyTimeSpent" value="91487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78373384" visible="true" weight="0.15874036" />
-      <window_info id="Structure" order="1" sideWeight="0.21626617" side_tool="true" visible="true" weight="0.15874036" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.781893" visible="true" weight="0.15874036" />
+      <window_info id="Structure" order="1" sideWeight="0.218107" side_tool="true" visible="true" weight="0.15874036" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -353,9 +352,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.07260274" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.18381344" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="调试" order="12" visible="true" weight="0.2578875" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.2962963" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -431,17 +430,16 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/q56_链表中环的入口结点_EntryNodeOfLoop.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/q9_Fibonacci_斐波那契数列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JumpFloorII_变态跳台阶.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -847,8 +845,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q54_isNumeric_表示数值的字符串.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="88" column="33" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+        <state relative-caret-position="299">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q56_链表中环的入口结点_EntryNodeOfLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="64" column="1" lean-forward="true" selection-end-line="65" />
         </state>
       </provider>
     </entry>

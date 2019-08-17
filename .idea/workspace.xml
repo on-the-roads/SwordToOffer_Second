@@ -12,15 +12,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/q54_isNumeric_表示数值的字符串.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q56_链表中环的入口结点_EntryNodeOfLoop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
@@ -32,7 +23,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q60_Print_按之字型打印二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
+            <state relative-caret-position="92">
               <caret line="4" column="32" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -41,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q18_HasSubtree_树的子结构.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
@@ -49,6 +40,15 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/q57_deleteDuplication_删除链表中重复的结点.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="35" lean-forward="true" selection-start-line="4" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -65,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="207">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
@@ -126,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/q5_用两个栈实现队列.java" />
         <option value="$PROJECT_DIR$/src/q6_minNumberInRotateArray_旋转数组的最小数字.java" />
         <option value="$PROJECT_DIR$/src/q9_Fibonacci_斐波那契数列.java" />
         <option value="$PROJECT_DIR$/src/JumpFloorII_变态跳台阶.java" />
@@ -177,14 +176,15 @@
         <option value="$PROJECT_DIR$/src/q54_isNumeric_表示数值的字符串.java" />
         <option value="$PROJECT_DIR$/src/q56_链表中环的入口结点_EntryNodeOfLoop.java" />
         <option value="$PROJECT_DIR$/src/q60_Print_按之字型打印二叉树.java" />
+        <option value="$PROJECT_DIR$/src/q57_deleteDuplication_删除链表中重复的结点.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="886" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1598" />
+    <option name="y" value="239" />
+    <option name="width" value="1380" />
+    <option name="height" value="752" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="添加" />
@@ -194,6 +194,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,8 +212,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,17 +332,19 @@
       <workItem from="1565860925670" duration="266000" />
       <workItem from="1565947079365" duration="1055000" />
       <workItem from="1565957355146" duration="104000" />
+      <workItem from="1566027586639" duration="1402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92912000" />
+    <option name="totallyTimeSpent" value="94314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="1598" y="239" width="1380" height="752" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.77684563" visible="true" weight="0.16452442" />
-      <window_info id="Structure" order="1" sideWeight="0.22315437" side_tool="true" visible="true" weight="0.16452442" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.773399" visible="true" weight="0.19621213" />
+      <window_info id="Structure" order="1" sideWeight="0.22660099" side_tool="true" visible="true" weight="0.19621213" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -355,7 +357,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1824417" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31764707" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.2962963" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
@@ -443,13 +445,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RectCover_矩形覆盖.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/q10_NumberOf1_二进制中1的个数.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -799,7 +794,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q60_Print_按之字型打印二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
+        <state relative-caret-position="92">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -816,7 +811,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="207">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#126#127#0" expanded="true" />
@@ -860,6 +855,13 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q57_deleteDuplication_删除链表中重复的结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="35" lean-forward="true" selection-start-line="4" selection-end-line="35" />
         </state>
       </provider>
     </entry>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06a8060-bc01-4aff-adec-bbe87721150c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q59_isSymmetrical_对称的二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q62_Serialize_序列化二叉树.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q18_HasSubtree_树的子结构.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
+            <state relative-caret-position="322">
               <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q57_deleteDuplication_删除链表中重复的结点.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="35" lean-forward="true" selection-start-line="4" selection-end-line="35" />
+            <state relative-caret-position="805">
+              <caret line="35" selection-start-line="4" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -38,20 +38,28 @@
         <entry file="file://$PROJECT_DIR$/src/q58_GetNext_二叉树的下一结点.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding>
-                <element signature="e#758#759#0" expanded="true" />
-                <element signature="e#796#797#0" expanded="true" />
-              </folding>
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/q59_isSymmetrical_对称的二叉树.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/q59_isSymmetrical_对称的二叉树.java">
+        <entry file="file://$PROJECT_DIR$/src/q62_Serialize_序列化二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="40" column="1" lean-forward="true" selection-start-line="2" selection-end-line="40" selection-end-column="1" />
+            <state relative-caret-position="325">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="e#2096#2104#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,24 +67,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="1357">
               <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
               <folding>
                 <element signature="e#20770#20771#0" expanded="true" />
                 <element signature="e#20799#20800#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JumpFloorII_变态跳台阶.java" />
         <option value="$PROJECT_DIR$/src/RectCover_矩形覆盖.java" />
         <option value="$PROJECT_DIR$/src/q10_NumberOf1_二进制中1的个数.java" />
         <option value="$PROJECT_DIR$/src/q11_Power_数值的整数次方.java" />
@@ -184,14 +178,15 @@
         <option value="$PROJECT_DIR$/src/q57_deleteDuplication_删除链表中重复的结点.java" />
         <option value="$PROJECT_DIR$/src/q58_GetNext_二叉树的下一结点.java" />
         <option value="$PROJECT_DIR$/src/q59_isSymmetrical_对称的二叉树.java" />
+        <option value="$PROJECT_DIR$/src/q62_Serialize_序列化二叉树.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1515" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="width" value="1178" />
+    <option name="height" value="638" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="添加" />
@@ -201,8 +196,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,14 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.q60_Print_按之字型打印二叉树">
-    <configuration name="q45_LastRemaining_Solution_圆圈中最后剩下的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q45_LastRemaining_Solution_圆圈中最后剩下的数" />
-      <module name="剑指offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.q62_Serialize_序列化二叉树">
     <configuration name="q53_match_正则表达式匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="q53_match_正则表达式匹配" />
       <module name="剑指offer" />
@@ -281,13 +269,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q62_Serialize_序列化二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q62_Serialize_序列化二叉树" />
+      <module name="剑指offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q62_Serialize_序列化二叉树" />
         <item itemvalue="Application.q60_Print_按之字型打印二叉树" />
         <item itemvalue="Application.q56_链表中环的入口结点_EntryNodeOfLoop" />
         <item itemvalue="Application.q54_isNumeric_表示数值的字符串" />
         <item itemvalue="Application.q53_match_正则表达式匹配" />
-        <item itemvalue="Application.q45_LastRemaining_Solution_圆圈中最后剩下的数" />
       </list>
     </recent_temporary>
   </component>
@@ -339,19 +334,21 @@
       <workItem from="1565860925670" duration="266000" />
       <workItem from="1565947079365" duration="1055000" />
       <workItem from="1565957355146" duration="104000" />
-      <workItem from="1566027586639" duration="3778000" />
+      <workItem from="1566027586639" duration="5178000" />
+      <workItem from="1566097059850" duration="170000" />
+      <workItem from="1566113938142" duration="833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96690000" />
+    <option name="totallyTimeSpent" value="99093000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.11764706" visible="true" weight="0.19591528" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.88235295" side_tool="true" visible="true" weight="0.19591528" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7816764" visible="true" weight="0.17030849" />
+      <window_info id="Structure" order="1" sideWeight="0.21832359" side_tool="true" visible="true" weight="0.17030849" />
       <window_info id="设计器" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -364,9 +361,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31658292" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.17558299" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="调试" order="12" weight="0.2962963" />
+      <window_info active="true" anchor="bottom" id="调试" order="12" visible="true" weight="0.2962963" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32998326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -452,13 +449,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/q4_replaceSpace_替换空格.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/q15_FindKthToTail_链表中倒数第k个结点.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -802,6 +792,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/q18_HasSubtree_树的子结构.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q57_deleteDuplication_删除链表中重复的结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" selection-start-line="4" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q58_GetNext_二叉树的下一结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q59_isSymmetrical_对称的二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding>
+            <element signature="e#20770#20771#0" expanded="true" />
+            <element signature="e#20799#20800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/q19_Mirror_二叉树的镜像.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -830,49 +862,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/q18_HasSubtree_树的子结构.java">
+    <entry file="file://$PROJECT_DIR$/src/q62_Serialize_序列化二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="325">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#2096#2104#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/q57_deleteDuplication_删除链表中重复的结点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="35" lean-forward="true" selection-start-line="4" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/q58_GetNext_二叉树的下一结点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-          <folding>
-            <element signature="e#20770#20771#0" expanded="true" />
-            <element signature="e#20799#20800#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/q59_isSymmetrical_对称的二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="2" selection-end-line="40" selection-end-column="1" />
         </state>
       </provider>
     </entry>
